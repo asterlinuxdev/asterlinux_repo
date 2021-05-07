@@ -1,2 +1,2 @@
 # asterlinux_repo
-# repository for asterlinux packages
+# Repository for asterlinux packages
