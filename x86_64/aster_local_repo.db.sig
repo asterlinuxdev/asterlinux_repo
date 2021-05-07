@@ -1,1 +1,0 @@
-aster_local_repo.db.tar.gz.sig
